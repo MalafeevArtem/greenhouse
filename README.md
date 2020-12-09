@@ -23,5 +23,8 @@
 2. git clone https://github.com/lighrik/greenhouse
 3. cd greenhouse
 4. npm install
-5. npm run serve
+5. pip3 install -r requirements.txt
+6. npm run serve
+7. python3 bot.py
+
 
